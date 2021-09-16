@@ -1,11 +1,11 @@
 {
-    "name": "VORTEX",
-    "description": "It can spin it’s body into a whirlwind and control the battlefield.",
-    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000012.png",
+    "name": "ORION",
+    "description": "The only creature able to extract energy from crystals, it’s body has adapted to match this.",
+    "image": "https://energymonstersnft.github.io/MNSTR/18.png",
     "attributes": [
         {
             "trait_type": "Power Source",
-            "value": "Air"
+            "value": "Crystal"
         }
     ]
 }

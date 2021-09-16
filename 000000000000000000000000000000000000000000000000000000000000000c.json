@@ -1,0 +1,11 @@
+{
+    "name": "VORTEX",
+    "description": "It can spin it’s body into a whirlwind and control the battlefield.",
+    "image": "https://energymonstersnft.github.io/MNSTR/12.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Air"
+        }
+    ]
+}

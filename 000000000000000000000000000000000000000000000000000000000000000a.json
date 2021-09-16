@@ -1,0 +1,11 @@
+{
+    "name": "WOLFERNO",
+    "description": "Protector of the woodland, will use dead matter from the area to ward away invaders.",
+    "image": "https://energymonstersnft.github.io/MNSTR/10.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Biomass"
+        }
+    ]
+}

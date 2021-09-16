@@ -1,11 +1,11 @@
 {
-    "name": "VALBORGA",
-    "description": "Green power plus solid rock, this gentle giant keeps the other in check.",
-    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000014.png",
+    "name": "CANIS",
+    "description": "Assimilates light energy though it’s raised spikes, making it move exceptionally fast.",
+    "image": "https://energymonstersnft.github.io/MNSTR/20.png",
     "attributes": [
         {
             "trait_type": "Power Source",
-            "value": "Biomass"
+            "value": "Light"
         }
     ]
 }

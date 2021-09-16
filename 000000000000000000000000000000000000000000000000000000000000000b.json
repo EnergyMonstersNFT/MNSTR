@@ -1,0 +1,11 @@
+{
+    "name": "MERRCAT",
+    "description": "Collecting energy from waves it can crush many enemies in one go.",
+    "image": "https://energymonstersnft.github.io/MNSTR/11.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Waves"
+        }
+    ]
+}
