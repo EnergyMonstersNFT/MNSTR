@@ -1,0 +1,11 @@
+{
+    "name": "RETAK",
+    "description": "Command the depths of the ocean, the currents keep this creature going indefinitely.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000019.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Water"
+        }
+    ]
+}

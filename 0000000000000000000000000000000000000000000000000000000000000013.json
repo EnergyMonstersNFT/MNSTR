@@ -1,0 +1,11 @@
+{
+    "name": "MAGMATON",
+    "description": "Born in the bowels of the earth, ferocious in battle but expends it’s energy quickly.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000013.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Fossil"
+        }
+    ]
+}

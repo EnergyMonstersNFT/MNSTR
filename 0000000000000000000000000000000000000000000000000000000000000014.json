@@ -1,0 +1,11 @@
+{
+    "name": "VALBORGA",
+    "description": "Green power plus solid rock, this gentle giant keeps the other in check.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000014.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Biomass"
+        }
+    ]
+}

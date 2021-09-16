@@ -1,0 +1,11 @@
+{
+    "name": "ORCUS",
+    "description": "Gains power from the sea and hunts on land, a terrifying apex predator.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000006.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Water"
+        }
+    ]
+}

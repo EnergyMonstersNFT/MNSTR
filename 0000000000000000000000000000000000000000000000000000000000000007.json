@@ -1,0 +1,11 @@
+{
+    "name": "RAZOR",
+    "description": "Using it’s tremendous speed it builds up static electricity from the air & unleashes it on it’s foe.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000007.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Static"
+        }
+    ]
+}

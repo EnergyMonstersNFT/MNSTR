@@ -1,0 +1,11 @@
+{
+    "name": "VOLCATIC",
+    "description": "Absorbs heat from geothermal springs, protecting itself with a coat of flames.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000003.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Geothermal"
+        }
+    ]
+}

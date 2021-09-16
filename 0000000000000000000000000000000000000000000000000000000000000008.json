@@ -1,0 +1,11 @@
+{
+    "name": "THUNDEROUS",
+    "description": "Tearing through the sky harnessing the energy of lightning, redirecting it at will.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000008.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Lightning"
+        }
+    ]
+}

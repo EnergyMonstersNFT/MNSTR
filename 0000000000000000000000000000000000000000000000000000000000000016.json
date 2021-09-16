@@ -1,0 +1,11 @@
+{
+    "name": "ALGUS",
+    "description": "Versatile on land and in the air. Deadly, but needs to refuel regularly.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000016.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Fossil"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ELDINGAR",
+    "description": "Soaks up the power of the sun to store energy and defend it’s territory.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000001.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Solar"
+        }
+    ]
+}

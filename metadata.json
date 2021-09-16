@@ -1,0 +1,8 @@
+{
+    "name": "EnergyMon",
+    "description": "Collectible Energy Monsters with a limited supply, showcasing a series of 20 unique monsters in a pixel art style and Energy theme.",
+    "image": "https://energymonstersnft.github.io/MNSTR/energymon.png",
+    "external_link": "https://energymon.online",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xb3c1e278FCc2365aF074907192a9BC342324233E"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CERVUS",
+    "description": "Gathers the immense power of the forest without disturbing the balance of it’s habitat.",
+    "image": "https://energymonstersnft.github.io/MNSTR/000000000000000000000000000000000000000000000000000002.png",
+    "attributes": [
+        {
+            "trait_type": "Power Source",
+            "value": "Biomass"
+        }
+    ]
+}
